@@ -43,4 +43,6 @@ public class CameraHandler : MonoBehaviour {
 
         cinemachineVirtualCamera.m_Lens.OrthographicSize = orthographicSize;
     }
+
+
 }

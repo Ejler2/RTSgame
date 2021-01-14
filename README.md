@@ -18,6 +18,10 @@ Programmeres i C# og ved brug af Unity som gameengine
 - Basis projektsetup i unity
 
 # Anden milesten
+- Tilføjet Resource Nodes.
+- Bygnings Placerings regler.
+- Bygning kost.
+- Health System
 
 # Tredje milesten
 

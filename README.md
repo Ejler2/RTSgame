@@ -23,7 +23,9 @@ Programmeres i C# og ved brug af Unity som gameengine
 - Bygning kost.
 - Health System
 
-# Tredje milesten
-
-# Fjerde milesten
-
+# Tredje milesten - Færdig
+- Tilføjet Enemy or Enemy Wave Manager
+- Tilføjet Repair og Demolish Knapper
+- Tilføjet UI
+- Tilføjet Tooltip UI
+- Tilføjet Arrow Projectile og Tower
